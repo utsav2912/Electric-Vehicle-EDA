@@ -48,7 +48,7 @@ I want to express my gratitude to the Innomatics Labs for making this dataset av
 
 For any questions or collaborations related to this project, feel free to contact me:
 
-- Name: Ddhruv Arora
+- Name: Utsav Chaturvedi
 - LinkedIn: https://www.linkedin.com/in/utsav-chaturvedi-ba0789225/
 - Email: utsavchaturvedi2912@gmail.com
 
