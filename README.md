@@ -56,6 +56,6 @@ Thank you for joining me on this data analysis journey! 🌟 Together, let's dri
 
 ---
 ## Demo/Output
-[Static Output file for easy understanding]
+[Static Output file for easy understanding](https://utsav2912.github.io/Electric-Vehicle-EDA/)
 
 ## Thank you for visiting 🙏🙏
