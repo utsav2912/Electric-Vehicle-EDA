@@ -1,6 +1,5 @@
-# Exploring Electric Vehicles - Data Analysis Project
+# Electric-Vehicle-EDA
 
-![wdw](https://github.com/Ddhruv-IOT/EV-Hackathon/assets/54676859/8b58165f-2e64-434c-bd23-d457b821baa2)
 
 ## Overview
 
@@ -50,13 +49,13 @@ I want to express my gratitude to the Innomatics Labs for making this dataset av
 For any questions or collaborations related to this project, feel free to contact me:
 
 - Name: Ddhruv Arora
-- LinkedIn: https://www.linkedin.com/in/ddhruv-arora/
-- Email: ddhruvarora2@gmail.com
+- LinkedIn: https://www.linkedin.com/in/utsav-chaturvedi-ba0789225/
+- Email: utsavchaturvedi2912@gmail.com
 
 Thank you for joining me on this data analysis journey! 🌟 Together, let's drive a sustainable future with Electric Vehicles!
 
 ---
 ## Demo/Output
-[Static Output file for easy understanding](https://ddhruv-iot.github.io/EV-Hackathon/)
+[Static Output file for easy understanding]
 
 ## Thank you for visiting 🙏🙏
